@@ -12,7 +12,7 @@ This repository shows the three Jupyter notebooks that have been used to train t
 
 
 
- The training of these networks is done with the UTK faces database (https://www.kaggle.com/datasets/jangedoo/utkface-new) reconstructed with the pipeline explained in the TFG memo associated to this project. Follow the explained steps to execute the code
+ The training of these networks is done with the UTK faces database (https://www.kaggle.com/datasets/jangedoo/utkface-new) reconstructed with the pipeline explained in the article associated to this project. Follow the explained steps to execute the code
   
 
 
