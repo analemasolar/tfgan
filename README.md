@@ -1,5 +1,5 @@
 # TFGan
-This repository shows the three jupyter notebooks that have been used to train the neural networks exposed in the TFG of Manuel Nevado Fabián.
+This repository shows the three Jupyter notebooks that have been used to train the neural networks exposed by Claudio Navar.
 
 ## Content of the Notebooks
    ### CycleGanMem
@@ -7,7 +7,7 @@ This repository shows the three jupyter notebooks that have been used to train t
    ### TFGan_UpSampler
  Is the notebook for experimenting with the TFGAN-UP architecture.
    ### TFGan_UpSampler
- It is the training notebook of the standard TFGAN. It is the most important one. In this notebook both the standard TFGAN and the TFGANUP have been trained.
+ It is the training notebook of the standard TFGAN. It is the most important one. In this notebook, both the standard TFGAN and the TFGANUP have been trained.
 
 
 
